@@ -1,0 +1,7 @@
+import lavaderos.*
+
+test "testX" {
+
+	assert.that(true)
+
+}
